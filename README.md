@@ -5,5 +5,5 @@
 [请我们喝杯奶茶？]() </br>
 # Modern Railway Mod Based on NeoForge 1.21 </br>
 ## This mod is written for the NERV minecrft server </br>
-Welcome to join the server QQ group [(626849159)] (https://qm.qq.com/q/VyvGvp7HWi)</br>
+Welcome to join the server QQ group [(626849159)](https://qm.qq.com/q/VyvGvp7HWi)</br>
 [Can we have a cup of coffee, please?]() </br>
